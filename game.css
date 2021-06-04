@@ -1,0 +1,43 @@
+body
+{
+	background: rgb(179, 67, 67);
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#quiztaker1_name , #quiztaker2_name
+{
+	display: inline-block;
+	margin-left: 30px;
+}
+#number
+{
+	width: 50%;
+}
+#number_display
+{
+	letter-spacing: 3px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #5c44aa;
+padding: 15px;
+float: none;
+text-align: left;
+}
+
+h1
+{
+	color: turquoise;
+	border-width: medium;
+	border-color: crimson;
+}
